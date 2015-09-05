@@ -30,8 +30,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="268.50007"
-     inkscape:cy="535.24341"
+     inkscape:cx="204.66857"
+     inkscape:cy="534.66898"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
      borderlayer="true"
      showborder="false"
      inkscape:object-nodes="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-global="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -2943,10 +2943,10 @@
          style="opacity:1;fill:url(#linearGradient5556);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          style="display:inline;opacity:1;fill:url(#linearGradient10136);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.35555558;enable-background:new"
-         d="m -167.00048,1566.3622 c -0.554,0 -1,0.446 -1,1 l 0,18 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-11 6.88867,0 c 0.0201,0 0.0368,-0.011 0.0566,-0.012 0.0192,10e-4 0.0352,0.012 0.0547,0.012 0.55401,0 1.00001,-0.446 1.00001,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1.00001,-1 l -8,0 z m 1,2 6,0 0,4 -6,0 z m 1,1 0,2 4,0 0,-2 z"
+         d="m -167.00048,1566.3622 c -0.554,0 -1,0.446 -1,1 l 0,18 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-11 6.99997,0 c 0.55401,0 1.00001,-0.446 1.00001,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1.00001,-1 l -8,0 z m 1,2 6,0 0,4 -6,0 z m 1,1 0,2 4,0 0,-2 z"
          id="rect4392-8"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csssscscsssscccccccccccc" />
+         sodipodi:nodetypes="csssscsssscccccccccccc" />
     </g>
     <g
        transform="translate(258.00038,-490)"
@@ -2980,10 +2980,10 @@
          y="1620.3622" />
       <path
          style="display:inline;opacity:1;fill:url(#linearGradient10132);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.35555558;enable-background:new"
-         d="m -167.00058,1626.3621 c -0.554,0 -1,0.446 -1,1 l 0,10 0,8 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 6.88867,0 c 0.0201,0 0.0368,-0.011 0.0566,-0.012 0.0192,10e-4 0.0352,0.012 0.0547,0.012 0.55401,0 1.00001,-0.446 1.00001,-1 l 0,-6 c 0,-0.554 -0.44608,-1.0092 -1.00001,-1 l -7,0 0,-1 6.88868,0 c 0.0201,0 0.0368,-0.011 0.0566,-0.012 0.0192,10e-4 0.0352,0.012 0.0547,0.012 0.55401,0 1.00001,-0.446 1.00001,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1.00001,-1 l -8,0 z m 1,2 6,0 0,4 -6,0 z m 1,1 0,2 4,0 0,-2 z m -1,8 6,0 0,4 -6,0 z m 1,1 0,2 4,0 0,-2 z"
+         d="m -167.00058,1626.3621 c -0.554,0 -1,0.446 -1,1 l 0,10 0,8 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 6.99997,0 c 0.55401,0 1.00001,-0.446 1.00001,-1 l 0,-6 c 0,-0.554 -0.44608,-1.0092 -1.00001,-1 l -7,0 0,-1 7.00003,0 c 0.55401,0 0.99996,-0.446 0.99996,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1.00001,-1 l -8,0 z m 1,2 6,0 0,4 -6,0 z m 1,1 0,2 4,0 0,-2 z m -1,8 6,0 0,4 -6,0 z m 1,1 0,2 4,0 0,-2 z"
          id="rect4614-5"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cscssscscssssccscsssscccccccccccccccccccccc" />
+         sodipodi:nodetypes="cscssscssssccsssscccccccccccccccccccccc" />
     </g>
     <g
        transform="translate(843.00037,-495)"
@@ -4208,7 +4208,10 @@
     <g
        inkscape:label="#g4919"
        id="freezing-rain"
-       transform="translate(720.79715,-666.48437)">
+       transform="translate(720.79715,-666.48437)"
+       inkscape:export-filename="/home/dante/.conky-vision-icons/freezing-rain.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="1676.8466"
          x="-122.797"
