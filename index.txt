@@ -43,6 +43,7 @@ day-thundershowers.svg
 day-thunder-snow.svg
 day-thunderstorms.svg
 degree.svg
+dust.svg
 earthquake.svg
 exclamation.svg
 fahrenheit.svg
