@@ -11,6 +11,7 @@ arrow-SW.svg
 arrow-W-E.svg
 arrow-W.svg
 biohazard.svg
+blowing-snow.svg
 celsius.svg
 cloud-download.svg
 cloud-loading.svg
