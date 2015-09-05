@@ -58,6 +58,7 @@ humidity.svg
 hurricane.svg
 hurricane-warning.svg
 light-rain.svg
+light-snow.svg
 meteor_alt.svg
 meteor.svg
 mixed-rain-snow.svg

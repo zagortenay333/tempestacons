@@ -30,8 +30,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="266.50007"
-     inkscape:cy="475.00001"
+     inkscape:cx="268.50007"
+     inkscape:cy="638.00001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2015,6 +2015,26 @@
        y1="1576.3622"
        x2="-216"
        y2="1576.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#icon-color"
+       id="linearGradient3938"
+       gradientUnits="userSpaceOnUse"
+       x1="-118.00001"
+       y1="1098.3622"
+       x2="-90.000008"
+       y2="1098.3622"
+       gradientTransform="translate(65,65)" />
+    <linearGradient
+       gradientTransform="translate(64.999991,64.999919)"
+       inkscape:collect="always"
+       xlink:href="#icon-canvas"
+       id="linearGradient3936"
+       gradientUnits="userSpaceOnUse"
+       x1="-120.00006"
+       y1="1096.3622"
+       x2="-88.000053"
+       y2="1096.3622" />
   </defs>
   <metadata
      id="metadata7">
@@ -2065,7 +2085,7 @@
          id="path4973" />
     </g>
     <g
-       transform="translate(828.00038,-755.00002)"
+       transform="translate(893.00038,-755.00002)"
        id="night"
        inkscape:label="#g4779">
       <rect
@@ -2082,7 +2102,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(953.00048,-755.00002)"
+       transform="translate(1018.0005,-755.00002)"
        id="day"
        inkscape:label="#g4775">
       <rect
@@ -2117,7 +2137,7 @@
          sodipodi:nodetypes="cccssssccsccsccc" />
     </g>
     <g
-       transform="translate(318.00003,-525.00005)"
+       transform="translate(383.00003,-525.00005)"
        id="day-cloudy"
        inkscape:label="#g4594">
       <rect
@@ -2135,7 +2155,7 @@
          sodipodi:nodetypes="sssssssscsssscsscsssscsssccssscccssccccssssssssscccssssccc" />
     </g>
     <g
-       transform="translate(443.00007,-525.00005)"
+       transform="translate(508.00007,-525.00005)"
        id="night-cloudy"
        inkscape:label="#g4590">
       <rect
@@ -2170,7 +2190,7 @@
          sodipodi:nodetypes="cccsssccccccsccsccc" />
     </g>
     <g
-       transform="translate(448.00014,-585.00005)"
+       transform="translate(513.00014,-585.00005)"
        id="day-partly-cloudy"
        inkscape:label="#g4630">
       <rect
@@ -2187,7 +2207,7 @@
          id="path4650-9-9" />
     </g>
     <g
-       transform="translate(573.00018,-585.00005)"
+       transform="translate(638.00018,-585.00005)"
        id="night-partly-cloudy"
        inkscape:label="#g4634">
       <rect
@@ -2222,7 +2242,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(708.00018,-645.00004)"
+       transform="translate(773.00018,-645.00004)"
        id="day-cloudy-foggy"
        inkscape:label="#g4658">
       <rect
@@ -2239,7 +2259,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(833.00038,-645.00004)"
+       transform="translate(898.00038,-645.00004)"
        id="night-cloudy-foggy"
        inkscape:label="#g4654">
       <rect
@@ -2256,7 +2276,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(468.00027,-770.00007)"
+       transform="translate(533.00027,-770.00007)"
        id="cloudy-and-foggy"
        inkscape:label="#g4678">
       <rect
@@ -2273,7 +2293,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(1018.0005,-815.00003)"
+       transform="translate(1083.0005,-815.00003)"
        id="horizon-high"
        inkscape:label="#g4831">
       <rect
@@ -2290,7 +2310,7 @@
          style="display:inline;opacity:1;fill:url(#linearGradient10222);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.70000005;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
     </g>
     <g
-       transform="translate(1083.0006,-875.00003)"
+       transform="translate(498.0006,-810.00003)"
        id="horizon-low"
        inkscape:label="#g4835">
       <rect
@@ -2307,7 +2327,7 @@
          style="display:inline;opacity:1;fill:url(#linearGradient10220);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.70000005;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
     </g>
     <g
-       transform="translate(563.00015,-930.00002)"
+       transform="translate(628.00015,-930.00002)"
        id="sunset"
        inkscape:label="#g4899">
       <rect
@@ -2325,7 +2345,7 @@
          sodipodi:nodetypes="sssssssscsssscsscsssscssccccsccccsssssssssssssssssscccccscccccssscs" />
     </g>
     <g
-       transform="translate(498.00011,-870.00002)"
+       transform="translate(563.00011,-870.00002)"
        id="sunrise"
        inkscape:label="#g4895">
       <rect
@@ -2343,7 +2363,7 @@
          sodipodi:nodetypes="sssssssscsssscsscsssscssccccsccccsccccccssscsssccccccssssssssssssss" />
     </g>
     <g
-       transform="translate(198.00011,-430)"
+       transform="translate(263.00011,-430)"
        id="temp-100"
        inkscape:label="#g4795">
       <rect
@@ -2361,7 +2381,7 @@
          sodipodi:nodetypes="ssccsccssssccsccssssccsccss" />
     </g>
     <g
-       transform="translate(263.00015,-490)"
+       transform="translate(328.00015,-490)"
        id="temp-75"
        inkscape:label="#g4815">
       <rect
@@ -2379,7 +2399,7 @@
          sodipodi:nodetypes="ssccsccssssccsccssssccsccss" />
     </g>
     <g
-       transform="translate(328.0002,-550)"
+       transform="translate(393.0002,-550)"
        id="temp-50"
        inkscape:label="#g4855">
       <rect
@@ -2397,7 +2417,7 @@
          sodipodi:nodetypes="ssccsccssssccsccssssccsccss" />
     </g>
     <g
-       transform="translate(393.00024,-610)"
+       transform="translate(458.00024,-610)"
        id="temp-25"
        inkscape:label="#g4875">
       <rect
@@ -2415,7 +2435,7 @@
          sodipodi:nodetypes="ssccsccssssccsccssssccsccss" />
     </g>
     <g
-       transform="translate(458.00028,-669.99999)"
+       transform="translate(523.00028,-669.99999)"
        id="temp-0"
        inkscape:label="#g4919">
       <rect
@@ -2433,7 +2453,7 @@
          sodipodi:nodetypes="ssccsccssssccsccsssssss" />
     </g>
     <g
-       transform="translate(593.00037,-490)"
+       transform="translate(658.00037,-490)"
        id="compass-N"
        inkscape:label="#g4811">
       <rect
@@ -2450,7 +2470,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(203.00011,-544.99999)"
+       transform="translate(268.00011,-544.99999)"
        id="compass-S"
        inkscape:label="#g4871">
       <rect
@@ -2467,7 +2487,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(333.0002,-604.99999)"
+       transform="translate(398.0002,-604.99999)"
        id="compass-W"
        inkscape:label="#g4923">
       <rect
@@ -2484,7 +2504,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(723.00046,-550)"
+       transform="translate(138.00046,-485)"
        id="compass-E"
        inkscape:label="#g4859">
       <rect
@@ -2501,7 +2521,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(528.00032,-430)"
+       transform="translate(593.00032,-430)"
        id="compass"
        inkscape:label="#g4799">
       <rect
@@ -2518,7 +2538,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(468.00026,-299.99998)"
+       transform="translate(533.00026,-299.99998)"
        id="arrow-loading"
        inkscape:label="#g4803">
       <rect
@@ -2535,7 +2555,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(838.00048,-690.00001)"
+       transform="translate(903.00048,-690.00001)"
        id="umbrella"
        inkscape:label="#g4787">
       <rect
@@ -2553,7 +2573,7 @@
          sodipodi:nodetypes="sscccscccccssscccssssccss" />
     </g>
     <g
-       transform="translate(448.0002,-734.99999)"
+       transform="translate(513.0002,-734.99999)"
        id="sunglasses"
        inkscape:label="#g4911">
       <rect
@@ -2571,7 +2591,7 @@
          sodipodi:nodetypes="scsccsccsccscssccssssssssssss" />
     </g>
     <g
-       transform="translate(443.00015,-620)"
+       transform="translate(508.00015,-620)"
        id="wind"
        inkscape:label="#g4823">
       <rect
@@ -2589,7 +2609,7 @@
          sodipodi:nodetypes="cccscccsccsscscssscsccsss" />
     </g>
     <g
-       transform="translate(388.0002,-930.00002)"
+       transform="translate(453.0002,-930.00002)"
        id="celsius"
        inkscape:label="#g4915">
       <rect
@@ -2606,7 +2626,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(633.00024,-865.00001)"
+       transform="translate(698.00024,-865.00001)"
        id="moon-waxing-gibbous"
        inkscape:label="#g4903">
       <rect
@@ -2623,7 +2643,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(568.0002,-805.00001)"
+       transform="translate(633.0002,-805.00001)"
        id="moon-first-quarter"
        inkscape:label="#g4891">
       <rect
@@ -2640,7 +2660,7 @@
          id="path5968-7-7" />
     </g>
     <g
-       transform="translate(438.00011,-685)"
+       transform="translate(503.00011,-685)"
        id="moon-new"
        inkscape:label="#g4827">
       <rect
@@ -2657,7 +2677,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(503.00015,-745)"
+       transform="translate(568.00015,-745)"
        id="moon-waxing-crecent"
        inkscape:label="#g4839">
       <rect
@@ -2674,7 +2694,7 @@
          id="path5968-1-4" />
     </g>
     <g
-       transform="translate(398.00022,-565.00001)"
+       transform="translate(463.00022,-565.00001)"
        id="moon-full"
        inkscape:label="#g4746">
       <rect
@@ -2691,7 +2711,7 @@
          id="path6232-6" />
     </g>
     <g
-       transform="translate(643.00026,-565.00001)"
+       transform="translate(708.00026,-565.00001)"
        id="moon-waning-gibbous"
        inkscape:label="#g4759">
       <rect
@@ -2708,7 +2728,7 @@
          style="display:inline;opacity:1;fill:url(#linearGradient10158);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.70000005;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
     </g>
     <g
-       transform="translate(888.00038,-565.00001)"
+       transform="translate(953.00038,-565.00001)"
        id="moon-last-quarter"
        inkscape:label="#g4771">
       <rect
@@ -2725,7 +2745,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(838.00048,-729.99999)"
+       transform="translate(903.00048,-729.99999)"
        id="compass-NE"
        inkscape:label="#g4947">
       <rect
@@ -2742,7 +2762,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,185.00006,-435)"
+       transform="matrix(-1,0,0,1,250.00006,-435)"
        id="snowflake"
        inkscape:label="#g4750">
       <rect
@@ -2759,7 +2779,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(763.00028,-585.00006)"
+       transform="translate(828.00028,-585.00006)"
        id="night-cloudy-windy"
        inkscape:label="#g4638">
       <rect
@@ -2776,7 +2796,7 @@
          d="m -357.00002,1165.3622 c -0.55228,10e-5 -1,0.4497 -1,1.0019 0,0.5523 0.44772,1 1,1 l 16.5,0 c 0.68374,0 1.27225,0.4509 1.44922,1.1114 0.17696,0.6604 -0.10708,1.3456 -0.69922,1.6875 -0.59214,0.3418 -1.32707,0.2452 -1.81055,-0.2383 -0.94251,-0.9817 -2.39573,0.4715 -1.41406,1.414 1.11673,1.1168 2.85691,1.3463 4.22461,0.5567 1.3677,-0.7897 2.03961,-2.412 1.63086,-3.9375 -0.40875,-1.5254 -1.80157,-2.5957 -3.38086,-2.5957 z m 5.74805,-24.9629 c 0.1649,0.6414 0.24953,1.3007 0.25195,1.9629 0,4.4183 -3.58172,8 -8,8 -0.24979,-7e-4 -0.49941,-0.013 -0.74805,-0.037 0.45224,1.7708 1.49717,3.3334 2.96094,4.4277 -0.76071,1.0074 -1.21262,2.2576 -1.21289,3.6094 0,3.3137 2.68629,6 6,6 l 18.5,0 c 1.57929,0 2.97211,-1.0683 3.38086,-2.5937 0.40875,-1.5255 -0.26316,-3.1479 -1.63086,-3.9375 -1.3677,-0.7897 -3.10788,-0.5601 -4.22461,0.5566 -0.98167,0.9425 0.47155,2.3957 1.41406,1.4141 0.48348,-0.4835 1.21841,-0.5802 1.81055,-0.2383 0.59214,0.3419 0.87618,1.027 0.69922,1.6875 -0.17697,0.6604 -0.76548,1.1113 -1.44922,1.1113 l -18.5,0 c -2.20914,0 -4,-1.7909 -4,-4 0,-2.2091 1.79086,-4 4,-4 0.36119,10e-4 0.72057,0.051 1.06836,0.1484 0.4232,-2.9516 2.9498,-5.1446 5.93164,-5.1484 2.86675,0 5.3313,2.0325 5.88281,4.8457 0.76276,-0.5481 1.67791,-0.8438 2.61719,-0.8457 1.58424,0 2.97159,0.8232 3.77344,2.0606 0.94121,0.1344 1.8315,0.5106 2.58398,1.0917 -0.62058,-2.943 -3.22968,-5.1523 -6.35742,-5.1523 -0.49867,0 -0.99543,0.062 -1.48047,0.1777 -1.24805,-2.2947 -3.52815,-3.8092 -6.08398,-4.1132 -0.44132,-3.7431 -3.43541,-6.6705 -7.1875,-7.0274 z m 2.09961,2.709 c 1.62488,0.8766 2.78568,2.4576 3.07617,4.3359 -2.81876,0.3853 -5.25825,2.2436 -6.33985,4.9336 -1.05933,0.074 -2.03421,0.4243 -2.86718,0.9707 -0.57342,-0.3884 -1.07941,-0.8749 -1.4961,-1.4375 4.15979,-0.9832 7.28361,-4.4382 7.62696,-8.8027 z" />
     </g>
     <g
-       transform="translate(438.00005,-590.00008)"
+       transform="translate(503.00005,-590.00008)"
        id="cloudy-and-windy"
        inkscape:label="#g4586">
       <rect
@@ -2793,7 +2813,7 @@
          d="m -357.00002,1105.3622 c -0.55228,10e-5 -1,0.4497 -1,1.0019 0,0.5523 0.44772,1 1,1 l 16.5,0 c 0.68374,0 1.27225,0.4509 1.44922,1.1114 0.17696,0.6604 -0.10708,1.3456 -0.69922,1.6875 -0.59214,0.3418 -1.32707,0.2452 -1.81055,-0.2383 -0.94251,-0.9817 -2.39573,0.4715 -1.41406,1.414 1.11673,1.1168 2.85691,1.3463 4.22461,0.5567 1.3677,-0.7897 2.03961,-2.412 1.63086,-3.9375 -0.40875,-1.5254 -1.80157,-2.5957 -3.38086,-2.5957 z m 12,-18 c -3.26367,0 -6.19852,1.9876 -7.41602,5.0156 -3.14421,0.2186 -5.58336,2.8326 -5.58398,5.9844 0,3.3137 2.68629,6 6,6 l 18.5,0 c 1.57929,0 2.97211,-1.0683 3.38086,-2.5937 0.40875,-1.5255 -0.26316,-3.1479 -1.63086,-3.9375 -1.3677,-0.7897 -3.10788,-0.5601 -4.22461,0.5566 -0.98167,0.9425 0.47155,2.3957 1.41406,1.4141 0.48348,-0.4835 1.21841,-0.5802 1.81055,-0.2383 0.59214,0.3418 0.87618,1.027 0.69922,1.6875 -0.17697,0.6604 -0.76548,1.1113 -1.44922,1.1113 l -18.5,0 c -2.20914,0 -4,-1.7909 -4,-4 0,-2.2091 1.79086,-4 4,-4 0.36119,10e-4 0.72057,0.051 1.06836,0.1484 0.4232,-2.9516 2.9498,-5.1446 5.93164,-5.1484 2.86675,0 5.3313,2.0325 5.88281,4.8457 0.76276,-0.5481 1.67791,-0.8438 2.61719,-0.8457 1.58424,0 2.97159,0.8232 3.77344,2.0606 0.94121,0.1344 1.8315,0.5106 2.58398,1.0917 -0.62058,-2.943 -3.22968,-5.1523 -6.35742,-5.1523 -0.49867,0 -0.99543,0.062 -1.48047,0.1777 -1.39898,-2.5722 -4.09146,-4.1747 -7.01953,-4.1777 z" />
     </g>
     <g
-       transform="translate(698.00019,-645.00005)"
+       transform="translate(763.00019,-645.00005)"
        id="day-cloudy-windy"
        inkscape:label="#g4981">
       <rect
@@ -2810,7 +2830,7 @@
          d="m -354.99958,1225.3622 c -0.55228,10e-5 -1,0.4497 -1,1.0019 0,0.5523 0.44772,1 1,1 l 16.5,0 c 0.68374,0 1.27225,0.4509 1.44922,1.1114 0.17696,0.6604 -0.10708,1.3456 -0.69922,1.6875 -0.59214,0.3418 -1.32707,0.2452 -1.81055,-0.2383 -0.94251,-0.9817 -2.39573,0.4715 -1.41406,1.4141 1.11673,1.1167 2.85691,1.3462 4.22461,0.5566 1.3677,-0.7896 2.03961,-2.412 1.63086,-3.9375 -0.40875,-1.5254 -1.80157,-2.5957 -3.38086,-2.5957 z m -4,-14 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 1,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z m 11,-7 c -4.41828,0 -8,3.5817 -8,8 0,1.1484 0.24588,2.2374 0.68164,3.2246 -0.43517,0.832 -0.68144,1.7762 -0.68164,2.7754 0,3.3137 2.68629,6 6,6 l 18.5,0 c 1.57929,0 2.97211,-1.0683 3.38086,-2.5937 0.40875,-1.5255 -0.26316,-3.1479 -1.63086,-3.9375 -1.3677,-0.7897 -3.10788,-0.5601 -4.22461,0.5566 -0.98167,0.9425 0.47155,2.3957 1.41406,1.4141 0.48348,-0.4835 1.21841,-0.5802 1.81055,-0.2383 0.59214,0.3418 0.87618,1.027 0.69922,1.6875 -0.17697,0.6604 -0.76548,1.1113 -1.44922,1.1113 l -18.5,0 c -2.20914,0 -4,-1.7909 -4,-4 0,-2.2091 1.79086,-4 4,-4 0.36119,10e-4 0.72057,0.051 1.06836,0.1484 0.4232,-2.9516 2.9498,-5.1446 5.93164,-5.1484 2.86675,0 5.3313,2.0325 5.88281,4.8457 0.76276,-0.5481 1.67791,-0.8438 2.61719,-0.8457 1.58424,0 2.97159,0.8232 3.77344,2.0606 0.94121,0.1344 1.8315,0.5106 2.58398,1.0917 -0.62058,-2.943 -3.22968,-5.1523 -6.35742,-5.1523 -0.49867,0 -0.99543,0.062 -1.48047,0.1777 -1.18248,-2.1741 -3.29366,-3.6425 -5.68555,-4.0507 -1.46276,-1.8982 -3.7523,-3.127 -6.33398,-3.127 z m 0,2 c 1.32002,0 2.53659,0.4319 3.52734,1.1543 -2.64813,0.4997 -4.91316,2.2991 -5.94336,4.8613 -1.30185,0.091 -2.47895,0.595 -3.41601,1.375 -0.10626,-0.447 -0.16797,-0.9111 -0.16797,-1.3906 0,-3.3137 2.68629,-6 6,-6 z m 7.77734,-2.7793 c -0.25561,0 -0.51116,0.099 -0.70703,0.2949 l -0.70703,0.7071 c -0.39174,0.3917 -0.39174,1.0223 0,1.414 0.39174,0.3918 1.02233,0.3918 1.41406,0 l 0.70703,-0.707 c 0.39174,-0.3917 0.39174,-1.0223 0,-1.4141 -0.19585,-0.1958 -0.45141,-0.2949 -0.70703,-0.2949 z m -15.55468,0 c -0.25562,0 -0.51118,0.099 -0.70703,0.2949 -0.39174,0.3918 -0.39174,1.0224 0,1.4141 l 0.70703,0.707 c 0.39173,0.3918 1.02232,0.3918 1.41406,0 0.39174,-0.3917 0.39174,-1.0223 0,-1.414 l -0.70703,-0.7071 c -0.19587,-0.1958 -0.45142,-0.2949 -0.70703,-0.2949 z m 7.77734,-3.2207 c -0.554,0 -1,0.446 -1,1 l 0,1 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z" />
     </g>
     <g
-       transform="translate(378.00011,-560.00001)"
+       transform="translate(443.00011,-560.00001)"
        id="fog"
        inkscape:label="#g4783">
       <rect
@@ -2827,7 +2847,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(903.00058,-870.00002)"
+       transform="translate(318.00058,-805.00002)"
        id="pressure"
        inkscape:label="#g4883">
       <rect
@@ -2845,7 +2865,7 @@
          sodipodi:nodetypes="scccssccsscccsssssssccsccscccccccsssssss" />
     </g>
     <g
-       transform="translate(768.00038,-740)"
+       transform="translate(833.00038,-740)"
        id="hurricane"
        inkscape:label="#g4887">
       <rect
@@ -2862,7 +2882,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(563.00015,-794.99999)"
+       transform="translate(628.00015,-794.99999)"
        id="winter-hat"
        inkscape:label="#g4959">
       <rect
@@ -2879,7 +2899,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(778.00048,-615)"
+       transform="translate(843.00048,-615)"
        id="storm-warning"
        inkscape:label="#g4851">
       <rect
@@ -2897,7 +2917,7 @@
          sodipodi:nodetypes="csssscscsssscccccccccccc" />
     </g>
     <g
-       transform="translate(713.00038,-555)"
+       transform="translate(778.00038,-555)"
        id="gale-warning"
        inkscape:label="#g4819">
       <rect
@@ -2916,7 +2936,7 @@
     <g
        inkscape:transform-center-y="-6.0000002"
        inkscape:transform-center-x="-13"
-       transform="translate(843.00058,-674.99999)"
+       transform="translate(258.00058,-609.99999)"
        id="hurricane-warning"
        inkscape:label="#g4879">
       <rect
@@ -2934,7 +2954,7 @@
          sodipodi:nodetypes="cscssscscssssccscsssscccccccccccccccccccccc" />
     </g>
     <g
-       transform="translate(648.00037,-495)"
+       transform="translate(713.00037,-495)"
        id="small-craft-advisory"
        inkscape:label="#g4791">
       <rect
@@ -2952,7 +2972,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient10130);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
-       transform="translate(963.00048,-565.00001)"
+       transform="translate(378.0005,-500.00001)"
        id="flood"
        inkscape:label="#g4763">
       <rect
@@ -2969,7 +2989,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(703.00024,-800.00001)"
+       transform="translate(768.00024,-800.00001)"
        id="meteor"
        inkscape:label="#g4907">
       <rect
@@ -2987,7 +3007,7 @@
          sodipodi:nodetypes="ccccccccccsssss" />
     </g>
     <g
-       transform="translate(203.00009,-590.00008)"
+       transform="translate(268.00009,-590.00008)"
        id="showers"
        inkscape:label="#g4606">
       <rect
@@ -3004,7 +3024,7 @@
          d="m -44.999998,1087.3622 c -3.26368,0 -6.19852,1.9876 -7.41603,5.0156 -3.14421,0.2186 -5.58336,2.8326 -5.58398,5.9844 0,3.1615 2.44833,5.7415 5.55078,5.9727 l 1.13867,-1.9727 -0.68945,0 c -2.20914,0 -4,-1.7909 -4,-4 0,-2.2091 1.79086,-4 4,-4 0.36119,10e-4 0.72057,0.051 1.06836,0.1484 0.4232,-2.9516 2.9498,-5.1446 5.93165,-5.1484 2.86675,0 5.3313,2.0325 5.88281,4.8457 0.76276,-0.5481 1.67791,-0.8438 2.61719,-0.8457 2.48528,0 4.5,2.0147 4.5,4.5 0,2.4853 -2.01472,4.5 -4.5,4.5 l -0.5,0 -1.15234,2 1.65234,0 c 3.58985,0 6.5,-2.9101 6.5,-6.5 0,-3.5898 -2.91015,-6.5 -6.5,-6.5 -0.49867,0 -0.99543,0.062 -1.48047,0.1777 -1.39898,-2.5722 -4.09146,-4.1747 -7.01953,-4.1777 z m -1.50088,12.1349 c 0.47978,0.277 0.64303,0.8862 0.36603,1.366 l -4.03924,6.9961 c -0.27699,0.4798 -0.88624,0.646 -1.36602,0.369 -0.47978,-0.277 -0.64302,-0.8892 -0.36603,-1.369 l 4.03923,-6.9961 c 0.277,-0.4798 0.88625,-0.643 1.36603,-0.366 z m 4.00001,0 c 0.47977,0.277 0.64302,0.8862 0.36602,1.366 l -4.03923,6.9961 c -0.27699,0.4798 -0.88625,0.646 -1.36603,0.369 -0.47978,-0.277 -0.64302,-0.8892 -0.36603,-1.369 l 4.03924,-6.9961 c 0.277,-0.4798 0.88625,-0.643 1.36603,-0.366 z m 4,0 c 0.47977,0.277 0.64302,0.8862 0.36602,1.366 l -4.03923,6.9961 c -0.27699,0.4798 -0.88624,0.646 -1.36602,0.369 -0.47978,-0.277 -0.64302,-0.8892 -0.36603,-1.369 l 4.03923,-6.9961 c 0.277,-0.4798 0.88625,-0.643 1.36603,-0.366 z" />
     </g>
     <g
-       transform="translate(338.00019,-500.00001)"
+       transform="translate(403.00019,-500.00001)"
        id="meteor_alt"
        inkscape:label="#g4742">
       <rect
@@ -3022,7 +3042,7 @@
          sodipodi:nodetypes="ccccccccsccccsssssccsccsccscscccssccccccscccc" />
     </g>
     <g
-       transform="translate(378.00011,-615)"
+       transform="translate(443.00011,-615)"
        id="tornado"
        inkscape:label="#g4843">
       <rect
@@ -3039,7 +3059,7 @@
          d="m -287.00012,1584.3622 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 2,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -2,0 z m 1.83398,-4 c -0.46167,0 -0.83398,0.446 -0.83398,1 0,0.554 0.37231,1 0.83398,1 l 3.33204,0 c 0.46167,0 0.83398,-0.446 0.83398,-1 0,-0.554 -0.37231,-1 -0.83398,-1 l -3.33204,0 z m 0.94336,-4 c -0.43089,0 -0.77734,0.446 -0.77734,1 0,0.554 0.34645,1 0.77734,1 l 5.44532,0 c 0.43089,0 0.77734,-0.446 0.77734,-1 0,-0.554 -0.34645,-1 -0.77734,-1 l -5.44532,0 z m -0.95703,-4 c -0.46893,0 -0.8457,0.446 -0.8457,1 0,0.554 0.37677,1 0.8457,1 l 9.33399,0 c 0.46893,0 0.8457,-0.446 0.8457,-1 0,-0.554 -0.37677,-1 -0.8457,-1 l -9.33399,0 z m -5.03101,-4 c -0.43737,0 -0.78929,0.446 -0.78929,1 0,0.554 0.35192,1 0.78929,1 l 13.42141,0 c 0.43737,0 0.78929,-0.446 0.78929,-1 0,-0.554 -0.35192,-1 -0.78929,-1 l -13.42141,0 z m -4.87262,-4 c -0.50785,0 -0.91667,0.446 -0.91667,1 0,0.554 0.40882,1 0.91667,1 l 20.16665,0 c 0.50785,0 0.91667,-0.446 0.91667,-1 0,-0.554 -0.40882,-1 -0.91667,-1 l -20.16665,0 z" />
     </g>
     <g
-       transform="translate(643.00032,-615)"
+       transform="translate(708.00032,-615)"
        id="humidity"
        inkscape:label="#g4847">
       <rect
@@ -3056,7 +3076,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(713.00028,-775.00008)"
+       transform="translate(778.00028,-775.00008)"
        id="thundershowers"
        inkscape:label="#g4662">
       <rect
@@ -3074,7 +3094,7 @@
          sodipodi:nodetypes="sssssssssssssscccscccccccsscccccssccssccc" />
     </g>
     <g
-       transform="translate(648.00031,-715.00008)"
+       transform="translate(713.00031,-715.00008)"
        id="snow-and-thunder"
        inkscape:label="#g4626">
       <rect
@@ -3092,7 +3112,7 @@
          sodipodi:nodetypes="sscscccssscssccssscssscssscscccsscccscccccccsscccccssccssccc" />
     </g>
     <g
-       transform="translate(583.00026,-655.00008)"
+       transform="translate(648.00026,-655.00008)"
        id="thunderstorms"
        inkscape:label="#g4598">
       <rect
@@ -3126,7 +3146,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(268.00014,-650.00007)"
+       transform="translate(333.00014,-650.00007)"
        id="rain"
        inkscape:label="#g4618">
       <rect
@@ -3143,7 +3163,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(333.00018,-710.00007)"
+       transform="translate(398.00018,-710.00007)"
        id="light-rain"
        inkscape:label="#g4670">
       <rect
@@ -3160,7 +3180,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(463.00026,-770.00007)"
+       transform="translate(528.00026,-770.00007)"
        id="rain_alt"
        inkscape:label="#g4682">
       <rect
@@ -3177,7 +3197,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(723.00048,-895.00009)"
+       transform="translate(138.00048,-830.00009)"
        id="hail"
        inkscape:label="#g4734">
       <rect
@@ -3194,7 +3214,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(1083.0005,-710.00007)"
+       transform="translate(498.0005,-645.00007)"
        id="cloud-loading"
        inkscape:label="#g4646">
       <rect
@@ -3211,7 +3231,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(1018.0005,-650.00007)"
+       transform="translate(1083.0005,-650.00007)"
        id="cloud-download"
        inkscape:label="#g4642">
       <rect
@@ -3228,7 +3248,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(953.00038,-590.00008)"
+       transform="translate(1018.0004,-590.00008)"
        id="cloud-upload"
        inkscape:label="#g4582">
       <rect
@@ -3245,7 +3265,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(458.00022,-655.00008)"
+       transform="translate(523.00022,-655.00008)"
        id="snowshowers"
        inkscape:label="#g4602">
       <rect
@@ -3262,7 +3282,7 @@
          d="m -103.50001,1104.3622 c -0.277,0 -0.5,0.446 -0.5,1 l 0,0.293 -0.20703,-0.2071 c -0.39174,-0.3917 -0.86468,-0.5493 -1.06055,-0.3535 -0.19587,0.1959 -0.0382,0.6688 0.35352,1.0606 l 0.20703,0.207 -0.29297,0 c -0.554,0 -1,0.223 -1,0.5 0,0.277 0.446,0.5 1,0.5 l 0.29297,0 -0.20703,0.207 c -0.39174,0.3918 -0.54939,0.8647 -0.35352,1.0606 0.19587,0.1959 0.66881,0.038 1.06055,-0.3535 l 0.20703,-0.2071 0,0.293 c 0,0.554 0.223,1 0.5,1 0.277,0 0.5,-0.446 0.5,-1 l 0,-0.293 0.20703,0.2071 c 0.39174,0.3917 0.86468,0.5494 1.06055,0.3535 0.19587,-0.1959 0.0382,-0.6688 -0.35352,-1.0606 l -0.20703,-0.207 0.29297,0 c 0.554,0 1,-0.223 1,-0.5 0,-0.277 -0.446,-0.5 -1,-0.5 l -0.29297,0 0.20703,-0.207 c 0.39174,-0.3918 0.54939,-0.8647 0.35352,-1.0606 -0.19587,-0.1958 -0.66881,-0.038 -1.06055,0.3535 l -0.20703,0.2071 0,-0.293 c 0,-0.554 -0.223,-1 -0.5,-1 z m -6,0 c -0.277,0 -0.5,0.446 -0.5,1 l 0,0.293 -0.20703,-0.2071 c -0.39174,-0.3917 -0.86468,-0.5493 -1.06055,-0.3535 -0.19587,0.1959 -0.0382,0.6688 0.35352,1.0606 l 0.20703,0.207 -0.29297,0 c -0.554,0 -1,0.223 -1,0.5 0,0.277 0.446,0.5 1,0.5 l 0.29297,0 -0.20703,0.207 c -0.39174,0.3918 -0.54939,0.8647 -0.35352,1.0606 0.19587,0.1959 0.66881,0.038 1.06055,-0.3535 l 0.20703,-0.2071 0,0.293 c 0,0.554 0.223,1 0.5,1 0.277,0 0.5,-0.446 0.5,-1 l 0,-0.293 0.20703,0.2071 c 0.39174,0.3917 0.86468,0.5494 1.06055,0.3535 0.19587,-0.1959 0.0382,-0.6688 -0.35352,-1.0606 l -0.20703,-0.207 0.29297,0 c 0.554,0 1,-0.223 1,-0.5 0,-0.277 -0.446,-0.5 -1,-0.5 l -0.29297,0 0.20703,-0.207 c 0.39174,-0.3918 0.54939,-0.8647 0.35352,-1.0606 -0.19587,-0.1958 -0.66881,-0.038 -1.06055,0.3535 l -0.20703,0.2071 0,-0.293 c 0,-0.554 -0.223,-1 -0.5,-1 z m 8,-5 c -0.277,0 -0.5,0.446 -0.5,1 l 0,0.293 -0.20703,-0.2071 c -0.39174,-0.3917 -0.86468,-0.5493 -1.06055,-0.3535 -0.19587,0.1959 -0.0382,0.6688 0.35352,1.0606 l 0.20703,0.207 -0.29297,0 c -0.554,0 -1,0.223 -1,0.5 0,0.277 0.446,0.5 1,0.5 l 0.29297,0 -0.20703,0.207 c -0.39174,0.3918 -0.54939,0.8647 -0.35352,1.0606 0.19587,0.1959 0.66881,0.038 1.06055,-0.3535 l 0.20703,-0.2071 0,0.293 c 0,0.554 0.223,1 0.5,1 0.277,0 0.5,-0.446 0.5,-1 l 0,-0.293 0.20703,0.2071 c 0.39174,0.3917 0.864682,0.5494 1.060552,0.3535 0.19587,-0.1959 0.0382,-0.6688 -0.353522,-1.0606 l -0.20703,-0.207 0.29297,0 c 0.554002,0 1.000002,-0.223 1.000002,-0.5 0,-0.277 -0.446,-0.5 -1.000002,-0.5 l -0.29297,0 0.20703,-0.207 c 0.391742,-0.3918 0.549392,-0.8647 0.353522,-1.0606 -0.19587,-0.1958 -0.668812,-0.038 -1.060552,0.3535 l -0.20703,0.2071 0,-0.293 c 0,-0.554 -0.223,-1 -0.5,-1 z m -6,0 c -0.277,0 -0.5,0.446 -0.5,1 l 0,0.293 -0.20703,-0.2071 c -0.39174,-0.3917 -0.86468,-0.5493 -1.06055,-0.3535 -0.19587,0.1959 -0.0382,0.6688 0.35352,1.0606 l 0.20703,0.207 -0.29297,0 c -0.554,0 -1,0.223 -1,0.5 0,0.277 0.446,0.5 1,0.5 l 0.29297,0 -0.20703,0.207 c -0.39174,0.3918 -0.54939,0.8647 -0.35352,1.0606 0.19587,0.1959 0.66881,0.038 1.06055,-0.3535 l 0.20703,-0.2071 0,0.293 c 0,0.554 0.223,1 0.5,1 0.277,0 0.5,-0.446 0.5,-1 l 0,-0.293 0.20703,0.2071 c 0.39174,0.3917 0.86468,0.5494 1.06055,0.3535 0.19587,-0.1959 0.0382,-0.6688 -0.35352,-1.0606 l -0.20703,-0.207 0.29297,0 c 0.554,0 1,-0.223 1,-0.5 0,-0.277 -0.446,-0.5 -1,-0.5 l -0.29297,0 0.20703,-0.207 c 0.39174,-0.3918 0.54939,-0.8647 0.35352,-1.0606 -0.19587,-0.1958 -0.66881,-0.038 -1.06055,0.3535 l -0.20703,0.2071 0,-0.293 c 0,-0.554 -0.223,-1 -0.5,-1 z m 2.5,-12 c -3.26367,0 -6.19852,1.9876 -7.41602,5.0156 -3.14421,0.2186 -5.58336,2.8326 -5.58398,5.9844 0,3.1615 2.44833,5.7416 5.55078,5.9727 l 1.13867,-1.9727 -0.68945,0 c -2.20914,0 -4,-1.7909 -4,-4 0,-2.2091 1.79086,-4 4,-4 0.36119,10e-4 0.72057,0.051 1.06836,0.1484 0.4232,-2.9516 2.9498,-5.1446 5.93164,-5.1484 2.86675,0 5.331302,2.0325 5.882812,4.8457 0.76276,-0.5481 1.67791,-0.8438 2.61719,-0.8457 2.48528,0 4.5,2.0147 4.5,4.5 0,2.4853 -2.01472,4.5 -4.5,4.5 l -0.5,0 -1.15234,2 1.65234,0 c 3.58985,0 6.5,-2.9101 6.5,-6.5 0,-3.5898 -2.91015,-6.5 -6.5,-6.5 -0.49867,0 -0.99543,0.062 -1.48047,0.1777 -1.39898,-2.5722 -4.091462,-4.1747 -7.019532,-4.1777 z" />
     </g>
     <g
-       transform="translate(838.00038,-705.00004)"
+       transform="translate(903.00038,-705.00004)"
        id="day-showers"
        inkscape:label="#g4694">
       <rect
@@ -3279,7 +3299,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(693.00019,-700.00002)"
+       transform="translate(758.00019,-700.00002)"
        id="night-light-rain"
        inkscape:label="#g4710">
       <rect
@@ -3296,7 +3316,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(963.00048,-705.00004)"
+       transform="translate(378.0005,-640.00004)"
        id="night-showers"
        inkscape:label="#g4698">
       <rect
@@ -3313,7 +3333,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(563.00007,-640.00002)"
+       transform="translate(628.00007,-640.00002)"
        id="night-rain"
        inkscape:label="#g4706">
       <rect
@@ -3330,7 +3350,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(438.00003,-640.00002)"
+       transform="translate(503.00003,-640.00002)"
        id="day-rain"
        inkscape:label="#g4702">
       <rect
@@ -3347,7 +3367,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(568.00012,-700.00002)"
+       transform="translate(633.00012,-700.00002)"
        id="day-light-rain"
        inkscape:label="#g4714">
       <rect
@@ -3364,7 +3384,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(833.00038,-700.00002)"
+       transform="translate(898.00038,-700.00002)"
        id="night-snowshowers"
        inkscape:label="#g4718">
       <rect
@@ -3381,7 +3401,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(708.00018,-700.00002)"
+       transform="translate(773.00018,-700.00002)"
        id="day-snowshowers"
        inkscape:label="#g4722">
       <rect
@@ -3398,7 +3418,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(843.00048,-700.00002)"
+       transform="translate(258.00048,-635.00002)"
        id="night-snow"
        inkscape:label="#g4726">
       <rect
@@ -3415,7 +3435,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(718.00028,-700.00002)"
+       transform="translate(783.00028,-700.00002)"
        id="day-snow"
        inkscape:label="#g4730">
       <rect
@@ -3432,7 +3452,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(583.00025,-640.00002)"
+       transform="translate(648.00025,-640.00002)"
        id="night-thunderstorms"
        inkscape:label="#g4690">
       <rect
@@ -3449,7 +3469,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(338.00018,-700.00002)"
+       transform="translate(403.00018,-700.00002)"
        id="day-thunderstorms"
        inkscape:label="#g4738">
       <rect
@@ -3466,7 +3486,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(568.00014,-500.00001)"
+       transform="translate(633.00014,-500.00001)"
        id="volcano"
        inkscape:label="#g4767">
       <rect
@@ -3483,7 +3503,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(453.00018,-500.00001)"
+       transform="translate(518.00018,-500.00001)"
        id="fire"
        inkscape:label="#g4754">
       <rect
@@ -3500,7 +3520,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,130.00004,-555)"
+       transform="matrix(-1,0,0,1,195.00004,-555)"
        id="water-drop"
        inkscape:label="#g4975">
       <rect
@@ -3517,7 +3537,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(718.00038,-775.00008)"
+       transform="translate(783.00038,-775.00008)"
        id="mixed-rain-snow"
        inkscape:label="#g4666">
       <rect
@@ -3534,7 +3554,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(458.00022,-770.00007)"
+       transform="translate(523.00022,-770.00007)"
        id="mixed-snow-hail"
        inkscape:label="#g4686">
       <rect
@@ -3551,7 +3571,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(833.00048,-989.99999)"
+       transform="translate(898.00048,-989.99999)"
        id="hot"
        inkscape:label="#g4951">
       <rect
@@ -3568,7 +3588,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(633.00024,-989.99999)"
+       transform="translate(698.00024,-989.99999)"
        id="fahrenheit"
        inkscape:label="#g4955">
       <rect
@@ -3602,7 +3622,7 @@
        cy="534.86218"
        r="16.000002" />
     <g
-       transform="translate(-230.99954,194.99986)"
+       transform="translate(-165.99954,194.99986)"
        id="moon-waning-crecent"
        inkscape:label="#g4676">
       <rect
@@ -3626,7 +3646,7 @@
        id="rect4735"
        style="opacity:1;fill:url(#linearGradient5470);fill-opacity:1;stroke:#bebebe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(-723.99996,143.99987)"
+       transform="translate(-658.99996,143.99987)"
        id="not-available"
        inkscape:label="#g4772">
       <rect
@@ -3643,7 +3663,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-658.99992,83.999865)"
+       transform="translate(-593.99992,83.999865)"
        id="exclamation"
        inkscape:label="#g4768">
       <rect
@@ -3660,7 +3680,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-503.99979,148.99987)"
+       transform="translate(-438.99979,148.99987)"
        id="tsunami"
        inkscape:label="#g4764">
       <rect
@@ -3677,7 +3697,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-503.99979,153.99987)"
+       transform="translate(-438.99979,153.99987)"
        id="nuclear-fallout"
        inkscape:label="#g4760">
       <rect
@@ -3694,7 +3714,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-438.99975,93.999884)"
+       transform="translate(-1023.9998,158.99988)"
        id="biohazard"
        inkscape:label="#g4755">
       <rect
@@ -3711,7 +3731,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-528.99983,333.99987)"
+       transform="translate(-463.99983,333.99987)"
        id="earthquake"
        inkscape:label="#g4776">
       <rect
@@ -3729,7 +3749,7 @@
          sodipodi:nodetypes="ccccccccccccccccccccc" />
     </g>
     <g
-       transform="translate(-593.99988,23.999865)"
+       transform="translate(-528.99988,23.999865)"
        id="degree"
        inkscape:label="#g4751">
       <rect
@@ -3746,7 +3766,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-1126.8133,-119.29092)"
+       transform="translate(-1061.8133,-119.29092)"
        id="day-hail"
        inkscape:label="#g4858">
       <rect
@@ -3763,7 +3783,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-958.81327,-81.290915)"
+       transform="translate(-893.81327,-81.290915)"
        id="night-hail"
        inkscape:label="#g4838">
       <rect
@@ -3780,7 +3800,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-1218.8135,38.709095)"
+       transform="translate(-1153.8135,38.709095)"
        id="night-thunder-snow"
        inkscape:label="#g4846">
       <g
@@ -3800,7 +3820,7 @@
       </g>
     </g>
     <g
-       transform="translate(-1343.8134,38.709095)"
+       transform="translate(-1278.8134,38.709095)"
        id="day-thunder-snow"
        inkscape:label="#g4824">
       <rect
@@ -3817,7 +3837,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-1088.8134,-21.290905)"
+       transform="translate(-1023.8134,-21.290905)"
        id="night-thundershowers"
        inkscape:label="#g4842">
       <rect
@@ -3834,7 +3854,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-1213.8134,-21.290905)"
+       transform="translate(-1148.8134,-21.290905)"
        id="day-thundershowers"
        inkscape:label="#g4828">
       <rect
@@ -3851,7 +3871,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-1283.8131,446.70907)"
+       transform="translate(-1218.8131,446.70907)"
        id="compass-SE"
        inkscape:label="#g4892">
       <rect
@@ -3868,7 +3888,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-1153.8135,366.70907)"
+       transform="translate(-1088.8135,366.70907)"
        id="compass-SW"
        inkscape:label="#g4888">
       <rect
@@ -3885,7 +3905,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-1023.8134,286.70917)"
+       transform="translate(-958.8134,286.70917)"
        id="compass-NW"
        inkscape:label="#g4884">
       <rect
@@ -3910,7 +3930,7 @@
     <g
        id="arrow-N"
        inkscape:label="#g4781"
-       transform="translate(65,0)">
+       transform="translate(130,0)">
       <rect
          y="1075.3622"
          x="338.00015"
@@ -3932,7 +3952,7 @@
     <g
        id="arrow-SE"
        inkscape:label="#g4882"
-       transform="translate(65,0)">
+       transform="translate(130,0)">
       <g
          id="g4939"
          transform="translate(653.00041,-664.99998)">
@@ -3958,7 +3978,7 @@
     <g
        id="arrow-NE-SW"
        inkscape:label="#g5022"
-       transform="translate(65,0)">
+       transform="translate(130,0)">
       <rect
          y="1140.3622"
          x="338.00015"
@@ -3980,7 +4000,7 @@
     <g
        id="arrow-S-N"
        inkscape:label="#g5031"
-       transform="translate(65,0)">
+       transform="translate(130,0)">
       <g
          id="g4922"
          transform="translate(-1048.8134,273.70912)">
@@ -4006,7 +4026,7 @@
     <g
        id="arrow-W-E"
        inkscape:label="#g5040"
-       transform="translate(65,0)">
+       transform="translate(130,0)">
       <rect
          transform="scale(-1,1)"
          y="1140.3622"
@@ -4028,7 +4048,7 @@
     </g>
     <g
        id="arrow-W"
-       transform="matrix(0,-1,1,0,-932.36203,1510.3623)"
+       transform="matrix(0,-1,1,0,-867.36203,1510.3623)"
        inkscape:label="#g4837">
       <rect
          style="opacity:1;fill:url(#linearGradient4845);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4050,7 +4070,7 @@
     </g>
     <g
        id="arrow-E"
-       transform="matrix(0,1,-1,0,1640.3623,737.36203)"
+       transform="matrix(0,1,-1,0,1705.3623,737.36203)"
        inkscape:label="#g4848">
       <rect
          style="opacity:1;fill:url(#linearGradient4856);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4071,7 +4091,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-1,0,0,-1,1033.0003,2182.7244)"
+       transform="matrix(-1,0,0,-1,448.0003,2247.7244)"
        id="arrow-S"
        inkscape:label="#g4860">
       <rect
@@ -4094,7 +4114,7 @@
     </g>
     <g
        id="arrow-NE"
-       transform="matrix(1,0,0,-1,-65,2182.7244)"
+       transform="matrix(1,0,0,-1,0,2182.7244)"
        inkscape:label="#g4940">
       <g
          transform="translate(653.00041,-664.99998)"
@@ -4119,7 +4139,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0,1,-1,0,1185.3625,607.36191)"
+       transform="matrix(0,1,-1,0,1250.3625,607.36191)"
        id="arrow-SW"
        inkscape:label="#g4952">
       <g
@@ -4146,7 +4166,7 @@
     </g>
     <g
        id="arrow-NW"
-       transform="matrix(0,-1,-1,0,1315.3625,1705.3625)"
+       transform="matrix(0,-1,-1,0,1380.3625,1705.3625)"
        inkscape:label="#g4964">
       <g
          transform="translate(653.00041,-664.99998)"
@@ -4173,7 +4193,7 @@
     <g
        inkscape:label="#g4919"
        id="freezing-rain"
-       transform="translate(525.79715,-666.48437)">
+       transform="translate(590.79715,-666.48437)">
       <rect
          y="1676.8466"
          x="-122.797"
@@ -4187,6 +4207,23 @@
          d="m -100.79668,1679.8461 c 0,0 -3.00002,4.3432 -3.00002,6 0,1.6569 1.34315,3 3.00002,3 1.656849,0 2.999999,-1.3431 2.999999,-3 0,-1.6568 -2.999999,-6 -2.999999,-6 z m 0,3 c 0,0 0.999999,2.4477 0.999999,3 0,0.5523 -0.447719,1 -0.999999,1 -0.55229,0 -1,-0.4477 -1,-1 0,-0.5523 1,-3 1,-3 z m -10.99617,3.0004 c -1.02249,0 -2.04465,0.3904 -2.82813,1.1738 -0.78899,0.7891 -1.17938,1.822 -1.17383,2.8516 -0.004,3.9812 -0.002,6.9852 -0.002,10.9746 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-7.3437 1,1 0,4.3437 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2.3437 1,1 0,5.3437 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-3.3437 0.0566,0.057 c 0.15266,1.0683 0.64628,2.058 1.4082,2.8223 1.9526,1.9526 5.11771,1.9526 7.070332,0 1.95262,-1.9526 1.9526,-5.1177 0,-7.0703 -0.763332,-0.7591 -1.750722,-1.252 -2.816412,-1.4043 l -6.88673,-6.8868 c -0.78344,-0.7835 -1.80564,-1.1738 -2.82812,-1.1738 z m 0,2.002 c 0.51124,0 1.02234,0.1942 1.41406,0.5859 l 7.41798,7.4199 c 0.85111,-0.047 1.68168,0.2691 2.28515,0.8711 1.171612,1.1716 1.171572,3.0706 0,4.2422 -1.17157,1.1715 -3.07058,1.1716 -4.24219,0 -0.60083,-0.6037 -0.91845,-1.4347 -0.8711,-2.2851 l -7.41797,-7.418 c -0.78345,-0.7835 -0.78348,-2.0466 0,-2.8301 0.39174,-0.3917 0.90282,-0.5859 1.41407,-0.5859 z m 8.9961,8.998 c -0.51185,0 -1.02355,0.1955 -1.41407,0.586 -0.78105,0.7811 -0.78107,2.047 0,2.8281 0.78107,0.781 2.04708,0.781 2.82813,0 0.78105,-0.7811 0.78107,-2.047 0,-2.8281 -0.39053,-0.3905 -0.90222,-0.586 -1.41406,-0.586 z"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csssccsssccccsssccsssccssscccscccccsccccccccssccccs" />
+    </g>
+    <g
+       inkscape:label="#g4602"
+       id="light-snow"
+       transform="translate(393.00022,-720.00008)">
+      <rect
+         y="1145.3622"
+         x="-55.000061"
+         height="32.000004"
+         width="32.000004"
+         id="rect3932"
+         style="opacity:1;fill:url(#linearGradient3936);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -40.00001,1152.3622 c -3.26367,0 -6.19852,1.9876 -7.41602,5.0156 -3.14421,0.2186 -5.58336,2.8326 -5.58398,5.9844 0,3.1615 2.44833,5.7416 5.55078,5.9727 l 1.13867,-1.9727 -0.68945,0 c -2.20914,0 -4,-1.7909 -4,-4 0,-2.2091 1.79086,-4 4,-4 0.36119,10e-4 0.72057,0.051 1.06836,0.1484 0.4232,-2.9516 2.9498,-5.1446 5.93164,-5.1484 2.86675,0 5.331302,2.0325 5.882812,4.8457 0.76276,-0.5481 1.67791,-0.8438 2.61719,-0.8457 2.48528,0 4.5,2.0147 4.5,4.5 0,2.4853 -2.01472,4.5 -4.5,4.5 l -0.5,0 -1.15234,2 1.65234,0 c 3.58985,0 6.5,-2.9101 6.5,-6.5 0,-3.5898 -2.91015,-6.5 -6.5,-6.5 -0.49867,0 -0.99543,0.062 -1.48047,0.1777 -1.39898,-2.5722 -4.091462,-4.1747 -7.019532,-4.1777 z m -2.50021,16 c -0.277,0 -0.5,0.446 -0.5,1 l 0,0.293 -0.20703,-0.2071 c -0.39174,-0.3917 -0.86468,-0.5493 -1.06055,-0.3535 -0.19587,0.1959 -0.0382,0.6688 0.35352,1.0606 l 0.20703,0.207 -0.29297,0 c -0.554,0 -1,0.223 -1,0.5 0,0.277 0.446,0.5 1,0.5 l 0.29297,0 -0.20703,0.207 c -0.39174,0.3918 -0.54939,0.8647 -0.35352,1.0606 0.19587,0.1959 0.66881,0.038 1.06055,-0.3535 l 0.20703,-0.2071 0,0.293 c 0,0.554 0.223,1 0.5,1 0.277,0 0.5,-0.446 0.5,-1 l 0,-0.293 0.20703,0.2071 c 0.39174,0.3917 0.86468,0.5494 1.06055,0.3535 0.19587,-0.1959 0.0382,-0.6688 -0.35352,-1.0606 l -0.20703,-0.207 0.29297,0 c 0.554,0 1,-0.223 1,-0.5 0,-0.277 -0.446,-0.5 -1,-0.5 l -0.29297,0 0.20703,-0.207 c 0.39174,-0.3918 0.54939,-0.8647 0.35352,-1.0606 -0.19587,-0.1958 -0.66881,-0.038 -1.06055,0.3535 l -0.20703,0.2071 0,-0.293 c 0,-0.554 -0.223,-1 -0.5,-1 z m 6,-3 c -0.277,0 -0.5,0.446 -0.5,1 l 0,0.293 -0.20703,-0.2071 c -0.39174,-0.3917 -0.86468,-0.5493 -1.06055,-0.3535 -0.19587,0.1959 -0.0382,0.6688 0.35352,1.0606 l 0.20703,0.207 -0.29297,0 c -0.554,0 -1,0.223 -1,0.5 0,0.277 0.446,0.5 1,0.5 l 0.29297,0 -0.20703,0.207 c -0.39174,0.3918 -0.54939,0.8647 -0.35352,1.0606 0.19587,0.1959 0.66881,0.038 1.06055,-0.3535 l 0.20703,-0.2071 0,0.293 c 0,0.554 0.223,1 0.5,1 0.277,0 0.5,-0.446 0.5,-1 l 0,-0.293 0.20703,0.2071 c 0.39174,0.3917 0.864686,0.5494 1.060556,0.3535 0.19587,-0.1959 0.0382,-0.6688 -0.353526,-1.0606 l -0.20703,-0.207 0.29297,0 c 0.554006,0 1.000006,-0.223 1.000006,-0.5 0,-0.277 -0.446,-0.5 -1.000006,-0.5 l -0.29297,0 0.20703,-0.207 c 0.391746,-0.3918 0.549396,-0.8647 0.353526,-1.0606 -0.19587,-0.1958 -0.668816,-0.038 -1.060556,0.3535 l -0.20703,0.2071 0,-0.293 c 0,-0.554 -0.223,-1 -0.5,-1 z"
+         style="display:inline;opacity:1;fill:url(#linearGradient3938);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="path3934" />
     </g>
   </g>
 </svg>
