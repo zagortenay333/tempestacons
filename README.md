@@ -3,7 +3,7 @@
 
 ##Tempestacons
 
-A set of 116 weather based svg icons.
+A set of 117 weather based svg icons.
 
 ![preview](preview.png)
 
