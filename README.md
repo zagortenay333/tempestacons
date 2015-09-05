@@ -1,4 +1,4 @@
-[![icon-num](https://img.shields.io/badge/icons-116-blue.svg?style=flat-square)](#)
+[![icon-num](https://img.shields.io/badge/icons-120-blue.svg?style=flat-square)](#)
 [![ License ](https://img.shields.io/badge/license-CC--BY--SA--4.0--intl-brightgreen.svg?style=flat-square)](LICENSE)
 
 ##Tempestacons
