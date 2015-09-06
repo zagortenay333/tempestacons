@@ -11,7 +11,7 @@ A set of 120 weather based svg icons.
 
 The `render-pngs.sh` script will render png's from the `icons.svg` file by looping over the content of the `index.txt` file. Only id's inside the `index.txt` file will  be rendered.
 
-* The script requires [Inkscape](https://inkscape.org/en/).
+* The script requires [Inkscape](https://inkscape.org/en/) and **sed**.
 
 * The script will ask for an icon-size (single number) as well as an optional color.
 
