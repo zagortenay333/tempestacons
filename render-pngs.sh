@@ -26,11 +26,13 @@ for color in ${ICON_COLORS[*]}
 do
 
 # Create dir with color name
-    if [ ! -d $color ] && [ ! -z "$ICON_COLORS" ]; then
-        mkdir $color
-    else
-        mkdir $DEFAULT_COLOR
+    ICONS_DIR=$PREFIX"-"$color
+
+    if [ -z "$ICON_COLORS" ]; then
+        ICONS_DIR=$PREFIX"-"$DEFAULT_COLOR
     fi
+
+    mkdir -p $ICONS_DIR
 
 
 # Trap copy
