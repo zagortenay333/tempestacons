@@ -18,18 +18,22 @@ read SIZE
 echo "Enter 1 or more colors (space or tab separated): "
 read -a ICON_COLORS
 
+# If no colors given, add default color to array
+if [ ${#ICON_COLORS[*]} -eq 0 ]; then
+    ICON_COLORS[0]=$DEFAULT_COLOR
+fi
+
 
 #======================================
-#   Loop over icon colors
+#   Loop through icon colors
 #======================================
-for color in ${ICON_COLORS[*]}
-do
+for color in ${ICON_COLORS[*]}; do
 
 # Create dir with color name
-    ICONS_DIR=$PREFIX"-"$color
+    ICONS_DIR=$color
 
     if [ -z "$ICON_COLORS" ]; then
-        ICONS_DIR=$PREFIX"-"$DEFAULT_COLOR
+        ICONS_DIR=$DEFAULT_COLOR
     fi
 
     mkdir -p $ICONS_DIR
@@ -49,12 +53,12 @@ do
     fi
 
 
-# Loop over SVG folder & render png's
+# Loop through index.txt & render png's
     while read i; do
         i2=${i##*/}  i2=${i2%.*}
 
         if [ -f $color/$i2.png ]; then
-                echo $color/$i2.png exists.
+            echo $color/$i2.png exists.
         else
             echo
             echo Rendering $color/$i2.png
