@@ -13,7 +13,9 @@ The `render-pngs.sh` script will render png's from the `icons.svg` file by loopi
 
 * The script requires [Inkscape](https://inkscape.org/en/) and **sed**.
 
-* The script will ask for an icon-size (single number) as well as an optional color.
+* The script will ask for an icon size (single number). If you skip it, the icons default dimensions will be used.
+
+* The script will ask for an icon color. If you skip it, the default color will be used.
 
 * The script doesn't overwrite files. Delete the file you want to ovewrite before executing the script.
 
