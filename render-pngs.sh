@@ -30,13 +30,7 @@ fi
 for color in ${ICON_COLORS[*]}; do
 
 # Create dir with color name
-    ICONS_DIR=$color
-
-    if [ -z "$ICON_COLORS" ]; then
-        ICONS_DIR=$DEFAULT_COLOR
-    fi
-
-    mkdir -p $ICONS_DIR
+    mkdir -p $color
 
 
 # Trap copy
@@ -48,25 +42,23 @@ for color in ${ICON_COLORS[*]}; do
 
 
 # Change color of temp copy
-    if [ ! -z "ICON_COLORS" ]; then
+    if [ ! ${#ICON_COLORS[*]} -eq 1 ] || [ ! ${ICON_COLORS[0]} = $DEFAULT_COLOR ]; then
         sed -i "s/$DEFAULT_COLOR/$color/" $SOURCE_TEMP
     fi
 
 
 # Loop through index.txt & render png's
     while read i; do
-        i2=${i##*/}  i2=${i2%.*}
-
-        if [ -f $color/$i2.png ]; then
-            echo $color/$i2.png exists.
+        if [ -f $color/$i.png ]; then
+            echo $color/$i.png exists.
         else
             echo
-            echo Rendering $color/$i2.png
+            echo Rendering $color/$i.png
             $INKSCAPE --export-id=$i \
                       --export-id-only \
                       --export-width=$SIZE \
                       --export-height=$SIZE \
-                      --export-png=$color/$i2.png $SOURCE_TEMP >/dev/null
+                      --export-png=$color/$i.png $SOURCE_TEMP >/dev/null
         fi
     done < $INDEX
 
