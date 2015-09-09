@@ -13,10 +13,18 @@ INDEX="index.txt"
 #======================================
 #   User Input
 #======================================
-echo "Enter icon size (this is the width and height): "
+echo "Enter icon size (skip for default icon dimensions): "
 read SIZE
 echo "Enter 1 or more colors (space or tab separated): "
 read -a ICON_COLORS
+
+
+# If SIZE given, use for width & height
+# Otherwise, default dimensions used
+if [ ! -z "$SIZE" ]; then
+    SIZE="--export-width=$SIZE --export-height=$SIZE"
+fi
+
 
 # If no colors given, add default color to array
 if [ ${#ICON_COLORS[*]} -eq 0 ]; then
@@ -56,8 +64,7 @@ for color in ${ICON_COLORS[*]}; do
             echo Rendering $color/$i.png
             $INKSCAPE --export-id=$i \
                       --export-id-only \
-                      --export-width=$SIZE \
-                      --export-height=$SIZE \
+                      $SIZE \
                       --export-png=$color/$i.png $SOURCE_TEMP >/dev/null
         fi
     done < $INDEX
