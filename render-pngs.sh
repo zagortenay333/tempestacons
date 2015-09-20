@@ -38,20 +38,20 @@ fi
 for color in ${ICON_COLORS[*]}; do
 
 # Create dir with color name
-    mkdir -p $color
+    mkdir -p "$color"
 
 
 # Trap copy
-    trap 'rm "$SOURCE_TEMP"; exit' INT TERM
+    trap 'rm $SOURCE_TEMP; exit' INT TERM
 
 
 # Make a temp copy of SOURCE
-    cp $SOURCE $SOURCE_TEMP
+    cp "$SOURCE" "$SOURCE_TEMP"
 
 
 # Change color of temp copy
     if [ ! ${#ICON_COLORS[*]} -eq 1 ] || [ ! ${ICON_COLORS[0]} = $DEFAULT_COLOR ]; then
-        sed -i "s/$DEFAULT_COLOR/$color/" $SOURCE_TEMP
+        sed -i "s/$DEFAULT_COLOR/$color/" "$SOURCE_TEMP"
     fi
 
 
@@ -63,9 +63,9 @@ for color in ${ICON_COLORS[*]}; do
             echo
             echo Rendering "$color/$i.png"
             "$INKSCAPE" --export-id="$i" \
-                      --export-id-only \
-                      "$SIZE" \
-                      --export-png="$color"/"$i".png "$SOURCE_TEMP" >/dev/null
+                        --export-id-only \
+                        "$SIZE" \
+                        --export-png="$color/$i.png" "$SOURCE_TEMP" >/dev/null
         fi
     done < "$INDEX"
 
