@@ -37,25 +37,25 @@ fi
 #======================================
 for color in ${ICON_COLORS[*]}; do
 
-# Create dir with color name
+    # Create dir with color name
     mkdir -p "$color"
 
 
-# Trap copy
+    # Trap copy
     trap 'rm $SOURCE_TEMP; exit' INT TERM
 
 
-# Make a temp copy of SOURCE
+    # Make a temp copy of SOURCE
     cp "$SOURCE" "$SOURCE_TEMP"
 
 
-# Change color of temp copy
+    # Change color of temp copy
     if [ ! ${#ICON_COLORS[*]} -eq 1 ] || [ ! ${ICON_COLORS[0]} = $DEFAULT_COLOR ]; then
         sed -i "s/$DEFAULT_COLOR/$color/" "$SOURCE_TEMP"
     fi
 
 
-# Loop through index.txt & render png's
+    # Loop through index.txt & render png's
     while read -r i; do
         if [ -f "$color/$i.png" ]; then
             echo "$color/$i.png" exists.
@@ -70,7 +70,7 @@ for color in ${ICON_COLORS[*]}; do
     done < "$INDEX"
 
 
-# Remove copy before next iteration or EXIT
+    # Remove copy before next iteration or EXIT
     rm "$SOURCE_TEMP"
 
 done
