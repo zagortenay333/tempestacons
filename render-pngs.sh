@@ -14,9 +14,9 @@ INDEX="index.txt"
 #   User Input
 #======================================
 echo "Enter icon size (skip for default icon dimensions): "
-read SIZE
+read -r SIZE
 echo "Enter 1 or more colors (space or tab separated): "
-read -a ICON_COLORS
+read -r -a ICON_COLORS
 
 
 # If SIZE given, use for width & height
@@ -42,7 +42,7 @@ for color in ${ICON_COLORS[*]}; do
 
 
 # Trap copy
-    trap "rm $SOURCE_TEMP; exit" INT TERM
+    trap 'rm "$SOURCE_TEMP"; exit' INT TERM
 
 
 # Make a temp copy of SOURCE
@@ -56,22 +56,22 @@ for color in ${ICON_COLORS[*]}; do
 
 
 # Loop through index.txt & render png's
-    while read i; do
-        if [ -f $color/$i.png ]; then
-            echo $color/$i.png exists.
+    while read -r i; do
+        if [ -f "$color/$i.png" ]; then
+            echo "$color/$i.png" exists.
         else
             echo
-            echo Rendering $color/$i.png
-            $INKSCAPE --export-id=$i \
+            echo Rendering "$color/$i.png"
+            "$INKSCAPE" --export-id="$i" \
                       --export-id-only \
-                      $SIZE \
-                      --export-png=$color/$i.png $SOURCE_TEMP >/dev/null
+                      "$SIZE" \
+                      --export-png="$color"/"$i".png "$SOURCE_TEMP" >/dev/null
         fi
-    done < $INDEX
+    done < "$INDEX"
 
 
 # Remove copy before next iteration or EXIT
-    rm $SOURCE_TEMP
+    rm "$SOURCE_TEMP"
 
 done
 exit 0
