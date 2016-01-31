@@ -1,6 +1,3 @@
-[![icon-num](https://img.shields.io/badge/icons-120-blue.svg?style=flat-square)](#)
-[![ License ](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen.svg?style=flat-square)](LICENSE)
-
 ###Tempestacons
 
 ---
@@ -21,7 +18,7 @@ The `render-pngs.sh` script will render png's from the `icons.svg` file by loopi
 
 * You can provide an icon color. If you skip it, the default color will be used.
 
-* The script doesn't overwrite files. Delete the file you want to ovewrite before executing the script.
+* The script doesn't overwrite files. Delete the file you want to overwrite before executing the script.
 
 * If you change the icon color swatch in the `icons.svg` file, update the `DEFULT_COLOR` variable inside the `render-pngs.sh` script, otherwise the script won't be able to change the png color during rendering.
 
