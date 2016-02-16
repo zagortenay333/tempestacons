@@ -12,6 +12,7 @@ arrow-W-E
 arrow-W
 biohazard
 blowing-snow
+breeze
 celsius
 cloud-download
 cloud-loading
@@ -97,7 +98,6 @@ rain
 showers
 small-craft-advisory
 snow-and-thunder
-snowflake
 snowshowers
 snow
 storm-warning
