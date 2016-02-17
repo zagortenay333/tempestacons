@@ -1,5 +1,15 @@
 #! /bin/bash
 
+
+#======================================
+#   ANSI colors
+#======================================
+ansi_reset='\e[0m'
+blue='\e[34m'
+yellow_b='\e[1;33m'
+red_b='\e[1;31m'
+
+
 #======================================
 #   Global Variables
 #======================================
@@ -57,10 +67,10 @@ for color in ${ICON_COLORS[*]}; do
     # Loop through index.txt & render png's
     while read -r i; do
         if [ -f "$color--$SIZE/$i.png" ]; then
-            echo "$color--$SIZE/$i.png" exists.
+            echo -e "${red_b}$color--$SIZE/$i.png exists.${ansi_reset}"
         else
             echo
-            echo Rendering "$color--$SIZE/$i.png"
+            echo -e "${blue}Rendering ${yellow_b}$color--$SIZE/$i.png${ansi_reset}"
             "$INKSCAPE" --export-id="$i" \
                         --export-id-only \
                         --export-width="$SIZE" --export-height="$SIZE" \
