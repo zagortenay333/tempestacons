@@ -74,7 +74,7 @@ for color in ${ICON_COLORS[*]}; do
             "$INKSCAPE" --export-id="$i" \
                         --export-id-only \
                         --export-width="$SIZE" --export-height="$SIZE" \
-                        --export-png="$color--$SIZE/$i.png" "$SOURCE_TEMP" >/dev/null
+                        --export-png="$color--$SIZE/$i.png" "$SOURCE_TEMP" &> /dev/null
         fi
     done < "$INDEX"
 
