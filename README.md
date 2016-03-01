@@ -20,7 +20,7 @@ The `render-pngs.sh` script will render png's from the `icons.svg` file by loopi
 
 * The script doesn't overwrite files. Delete the file you want to overwrite before executing the script.
 
-**NOTE:** If you change the icon color swatch in the `icons.svg` file, update the `DEFULT_COLOR` variable inside the `render-pngs.sh` script, otherwise the script won't be able to change the png color during rendering.
+**NOTE:** If you change the icon color swatch in the `icons.svg` file, update the `DEFULT_COLOR` variable inside the `render-pngs` script, otherwise the script won't be able to change the png color during rendering.
 
 ---
 
