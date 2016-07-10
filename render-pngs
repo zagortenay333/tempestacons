@@ -1,22 +1,28 @@
 #!/bin/bash
 
-
 #======================================
 #   ANSI colors
 #======================================
 ansi_reset='\e[0m'
+
 blue='\e[34m'
+
 yellow_b='\e[1;33m'
+
 red_b='\e[1;31m'
 
 
 #======================================
-#   Global Variables
+#   Constants
 #======================================
 svg_source="icons.svg"
+
 svg_src_tmp="/tmp/icons.svg"
+
 default_color="#4078c0"
+
 default_size=32
+
 icon_index="index.txt"
 
 
@@ -25,6 +31,7 @@ icon_index="index.txt"
 #======================================
 echo "Enter icon size (skip for default icon dimensions): "
 read -r icon_size
+
 echo "Enter 1 or more colors (space or tab separated): "
 read -r -a icon_color
 
@@ -32,7 +39,6 @@ read -r -a icon_color
 #======================================
 #   Checks
 #======================================
-
 # If no colors given, add default color to array
 if [ ${#icon_color[*]} -eq 0 ]; then
     icon_color[0]=$default_color
@@ -45,7 +51,6 @@ icon_size=${icon_size:-"$default_size"}
 #======================================
 #   RENDER
 #======================================
-
 #Loop through icon colors
 for color in ${icon_color[*]}; do
 
@@ -91,6 +96,3 @@ done
 # If notify-send installed, send notif
 hash notify-send 2>/dev/null &&
 notify-send -i terminal -a 'Terminal' 'Terminal' 'Finished rendering icons!'
-
-
-exit
