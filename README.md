@@ -1,10 +1,10 @@
 A set of **120** weather based svg icons.
 
-![preview](preview.png)
+<div align="center"><img vspace="70" src="preview.png"></img></div>
 
 ---
 
-###Rendering png's
+### Rendering png's
 
 The `render-pngs.sh` script will render png's from the `icons.svg` file by looping over the content of the `index.txt` file. Only objects whoes id's are inside the `index.txt` file will  be rendered.
 
@@ -21,7 +21,7 @@ The `render-pngs.sh` script will render png's from the `icons.svg` file by loopi
 
 ---
 
-###Pseudo-artboards
+### Pseudo-artboards
 
 Since inkscape doesn't have artboards, the `icon.svg` file provides pseudo-artboard support by grouping each icon with a rectangle, which represents the icon's canvas (32x32 in this set.)
 
