@@ -1,8 +1,8 @@
-<div align="center">
-    <img vspace="70" src="preview.png"></img>
-    
+<div align="center"><img vspace="70" src="preview.png"></div>
+
+---
+
 A set of **120** weather based svg icons.
-</div>
 
 ---
 
